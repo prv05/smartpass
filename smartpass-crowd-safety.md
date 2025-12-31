@@ -75,6 +75,18 @@ The system is designed for:
 <video width="100%" controls poster="smartpass-cover.png">
   <source src="smartpass-demo.mp4" type="video/mp4">
 </video>
+## Video Demonstration
+
+▶ **SmartPass – Intelligent Crowd Safety System (Working Demo)**  
+
+[Click here to play the demo video](smartpass-demo.mp4)
+
+The video demonstrates:
+- Real-time people entry and exit counting  
+- Overcrowding alert (OVER state)  
+- Stampede detection using vibration and pressure sensors  
+- Live web dashboard with alerts  
+
 ---
 
 ## Features (Detailed)
@@ -173,3 +185,4 @@ Install libraries:
 - Adafruit MPU6050
 - Adafruit BMP085 Unified
 - WiFi & WebServer (ESP32)
+
