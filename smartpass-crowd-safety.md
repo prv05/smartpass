@@ -52,19 +52,19 @@ The system is designed for:
 ### **Images**
 
 <p align="center">
-  <img src="smartpass-dashboard.png" width="800"><br/>
+  <img src="images/smartpass-dashboard.png" width="800"><br/>
   <i>Live SmartPass dashboard showing people count, status, and analytics</i>
 </p>
 <p align="center">
-  <img src="smartpass-dashboard-2.png" width="800"><br/>
+  <img src="images/smartpass-dashboard-2.png" width="800"><br/>
   <i>Live SmartPass dashboard  Risk distrubution</i>
 </p>
 <p align="center">
-  <img src="smartpass-dashboard-3.png" width="800"><br/>
+  <img src="images/smartpass-dashboard-3.png" width="800"><br/>
   <i>Live SmartPass dashboard  Setting Max capacity</i>
 </p>
 <p align="center">
-  <img src="smartpass-hardware.jpg" width="800"><br/>
+  <img src="images/smartpass-hardware.jpg" width="800"><br/>
   <i>SmartPass hardware prototype with ESP32 and sensors</i>
 </p>
 
@@ -185,4 +185,5 @@ Install libraries:
 - Adafruit MPU6050
 - Adafruit BMP085 Unified
 - WiFi & WebServer (ESP32)
+
 
